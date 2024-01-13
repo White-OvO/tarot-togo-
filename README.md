@@ -72,5 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # tarot-togo-
 
 <h1> Push for interface : css and js. </h1> 
-  ![Screen Shot 2024-01-12 at 9 23 47 PM](https://github.com/White-OvO/tarot-togo-/assets/120700219/9ea9616a-cdd4-4bae-ab73-69945d707d80)
+(https://github.com/White-OvO/tarot-togo-/assets/120700219/bb8b9087-93ce-47ce-81b0-a1e6e59e5078)
 
