@@ -70,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # tarot-togo-
 # tarot-togo-
+
+<h1> Push for interface : css and js. </h1> 
+  ![Screen Shot 2024-01-12 at 9 23 47 PM](https://github.com/White-OvO/tarot-togo-/assets/120700219/9ea9616a-cdd4-4bae-ab73-69945d707d80)
+
